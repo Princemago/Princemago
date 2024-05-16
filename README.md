@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on person who is advanced than me
 - 📫 How to reach me email me in 21-30079@g.batstate-u.edu.ph
-- 👨‍💻 I have knowledge on making website using html css and JavaScript.
+- 👨‍💻 I have knowledge on web developing using html css and JavaScript.
 
 <!---
 Princemago/Princemago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
